@@ -23,7 +23,7 @@
 
 ##
 
-<p align="rigth">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,html,css,js,bootstrap,cs,dotnet,mysql" />
   </a>
