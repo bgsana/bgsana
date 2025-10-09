@@ -1,6 +1,12 @@
 # 👩🏻‍💻 Ana Borges
 **`Estudante de Desenvolvimento de Sistemas`**
- 
+
+<p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,html,css,js,bootstrap,cs,dotnet,mysql" />
+  </a>
+</p>
+
 ### Entre em contato!
 <div> 
   <a href = "bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
