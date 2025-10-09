@@ -1,9 +1,6 @@
 # 👩🏻‍💻 Ana Borges
 **`Estudante de Desenvolvimento de Sistemas`**
 
-<div> 
-  <a href = "bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ##
  
@@ -28,4 +25,9 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,html,css,js,bootstrap,cs,dotnet,mysql" />
   </a>
 </p>
+
+<div align="center"> 
+  <a href="mailto:bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
