@@ -7,11 +7,6 @@
   </a>
 </p>
 
-### Entre em contato!
-<div> 
-  <a href = "bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
  ##
  
 </div>
@@ -23,7 +18,11 @@
 
 ##
 
-### Estatísticas
+<div> 
+  <a href = "bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgsana&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Ana Borges github stats" /> 
