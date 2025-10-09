@@ -15,7 +15,7 @@
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgsana&show_icons=true&count_private=true&hide_border=true&title_color=964ef5&icon_color=8a2be2&text_color=ffff&bg_color=0d1117" alt="Ana Borges github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgsana&layout=compact&hide_border=true&title_color=8a2be2&text_color=ffff&bg_color=964ef5" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgsana&layout=compact&hide_border=true&title_color=964ef5&text_color=ffff&bg_color=0d1117" />
 </div>
 
 
