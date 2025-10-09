@@ -14,8 +14,8 @@
 ##
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgsana&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Ana Borges github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgsana&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgsana&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=964ef5&bg_color=0d1117" alt="Ana Borges github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgsana&layout=compact&hide_border=true&title_color=8a2be2&text_color=964ef5&bg_color=0d1117" />
 </div>
 
 ##
@@ -27,7 +27,7 @@
 </p>
 
 <div align="center"> 
-  <a href="mailto:bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23800080?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23800080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23964ef5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23964ef5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
