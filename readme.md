@@ -27,7 +27,9 @@
 </p>
 
 <div align="center"> 
-  <a href="mailto:bgs.ana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23964ef5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:bgs.ana@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23964ef5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/ana-l%C3%ADvia-borges-da-silva-96b959350/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23964ef5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
