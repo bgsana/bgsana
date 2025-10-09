@@ -23,13 +23,10 @@
 
 ##
 
-### 📊 Estatísticas
+### Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bgsana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bgsana&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="Ana Borges github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgsana&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
+</div>
+
