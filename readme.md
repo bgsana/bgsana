@@ -1,6 +1,7 @@
-# 👩🏻‍💻 Ana Borges
-**`Estudante de Desenvolvimento de Sistemas`**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964ef52&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23964ef52&size=35&center=true&vCenter=true&width=1000&lines=<Hi!+My+name+is+Ana+Borges./>)](https://git.io/typing-svg)
+**`Estudante de Desenvolvimento de Sistemas`**
 
  ##
  
