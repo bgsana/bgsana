@@ -1,5 +1,5 @@
 <div align="center">
-<img src="capa.gif">
+<img src="capaa.gif">
 </div>
 
  ##
